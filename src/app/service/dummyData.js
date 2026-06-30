@@ -47,4 +47,5 @@ export const {
   useGetProductByIDQuery,
   useAddNewProductMutation,
   useUpdateProductMutation,
+  useDeleteProductMutation,
 } = productsApi;
